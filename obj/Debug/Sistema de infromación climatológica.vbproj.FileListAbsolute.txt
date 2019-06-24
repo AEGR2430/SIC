@@ -1,0 +1,17 @@
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\bin\Debug\SIC.mdb
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\bin\Debug\Sistema de infromación climatológica.exe.config
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\bin\Debug\Sistema de infromación climatológica.exe
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\bin\Debug\Sistema de infromación climatológica.pdb
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\bin\Debug\Sistema de infromación climatológica.xml
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\obj\Debug\Sistema_de_infromación_climatológica.Estacion.resources
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\obj\Debug\Sistema_de_infromación_climatológica.Fecha.resources
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\obj\Debug\Sistema_de_infromación_climatológica.Form1.resources
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\obj\Debug\Sistema_de_infromación_climatológica.InsertarDatos.resources
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\obj\Debug\Sistema_de_infromación_climatológica.Periodos.resources
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\obj\Debug\Sistema_de_infromación_climatológica.SIC.resources
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\obj\Debug\Sistema_de_infromación_climatológica.Resources.resources
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\obj\Debug\Sistema de infromación climatológica.vbproj.GenerateResource.cache
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\obj\Debug\Sistema de infromación climatológica.vbproj.CoreCompileInputs.cache
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\obj\Debug\Sistema de infromación climatológica.exe
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\obj\Debug\Sistema de infromación climatológica.xml
+C:\Users\Adrián Gutiérrez\source\repos\Sistema de infromación climatológica\Sistema de infromación climatológica\obj\Debug\Sistema de infromación climatológica.pdb

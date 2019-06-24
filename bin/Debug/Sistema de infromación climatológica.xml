@@ -1,0 +1,796 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sistema de infromación climatológica
+</name>
+</assembly>
+<members>
+<member name="T:Sistema_de_infromación_climatológica.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Sistema_de_infromación_climatológica.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Sistema_de_infromación_climatológica.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.BolonchenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CampecheObservatorioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CampecheUACDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CandelariaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CarmenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CasanayabDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.ChampotonDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.EscarcegaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.EstacionesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.EstacionFechaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.HecelchakanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.HopelchenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.Máx_RegistradaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet._Noh_YaxcheDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.PalizadaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.SabancuyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.XcupilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.XpujilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.BolonchenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CampecheObservatorioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CampecheUACRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CandelariaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CarmenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CasanayabRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.ChampotonRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.EscarcegaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.EstacionesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.EstacionFechaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.HecelchakanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.HopelchenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.Máx_RegistradaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet._Noh_YaxcheRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.PalizadaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.SabancuyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.XcupilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.XpujilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.BolonchenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CampecheObservatorioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CampecheUACRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CandelariaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CarmenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.CasanayabRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.ChampotonRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.EscarcegaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.EstacionesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.EstacionFechaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.HecelchakanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.HopelchenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.Máx_RegistradaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet._Noh_YaxcheRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.PalizadaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.SabancuyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.XcupilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet.XpujilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.BolonchenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.CampecheObservatorioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.CampecheUACTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.CandelariaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.CarmenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.CasanayabTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.ChampotonTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.EscarcegaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.EstacionesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.EstacionFechaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.HecelchakanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.HopelchenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.Máx_RegistradaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.Noh_YaxcheTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.PalizadaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.SabancuyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.XcupilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.XpujilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sistema_de_infromación_climatológica.SICDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sistema_de_infromación_climatológica.SICDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sistema_de_infromación_climatológica.SICDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.TableAdapterManager.UpdateAll(Sistema_de_infromación_climatológica.SICDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.BolonchenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CampecheObservatorioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CampecheUACDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CandelariaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CarmenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CasanayabDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.ChampotonDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.EscarcegaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.HecelchakanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.HopelchenDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.NohYaxcheDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.PalizadaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.RegisEdoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.SabancuyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.XcupilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.XpujilDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.BolonchenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CampecheObservatorioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CampecheUACRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CandelariaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CarmenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CasanayabRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.ChampotonRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.EscarcegaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.HecelchakanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.HopelchenRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.NohYaxcheRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.PalizadaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.RegisEdoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.SabancuyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.XcupilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.XpujilRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.BolonchenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CampecheObservatorioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CampecheUACRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CandelariaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CarmenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.CasanayabRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.ChampotonRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.EscarcegaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.HecelchakanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.HopelchenRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.NohYaxcheRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.PalizadaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.RegisEdoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.SabancuyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.XcupilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1.XpujilRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.BolonchenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.CampecheObservatorioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.CampecheUACTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.CandelariaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.CarmenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.CasanayabTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.ChampotonTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.EscarcegaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.HecelchakanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.HopelchenTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.NohYaxcheTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.PalizadaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.RegisEdoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.SabancuyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.XcupilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.XpujilTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Sistema_de_infromación_climatológica.SICDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Sistema_de_infromación_climatológica.SICDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Sistema_de_infromación_climatológica.SICDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.TableAdapterManager.UpdateAll(Sistema_de_infromación_climatológica.SICDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Sistema_de_infromación_climatológica.SICDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
